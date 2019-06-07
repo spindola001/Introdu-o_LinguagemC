@@ -8,7 +8,7 @@ calcula qual será o saldo após três meses. A remuneração mensal é de 1%.
 */
 int main(){
 	setlocale(LC_ALL, "Portuguese");
-	float DeposInicial, Mes1, Mes2, Mes3, Remuneracao;
+	float DeposInicial, Mes1, Mes2, Mes3;
 	
 	printf("Controle de poupança");
 	
